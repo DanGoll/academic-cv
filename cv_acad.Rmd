@@ -1,0 +1,118 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: false
+    toc: false
+    includes:
+      in_header: shared.tex
+fontsize: 11pt
+geometry: margin=2.15cm
+header-includes:
+  - \pagenumbering{gobble}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+\nameheader{Daniel Goller, Ph.D.}
+
+\contactline{%
+
+\iconhref{\faGlobe}{https://dangoll.github.io/index.html}{Personal Webpage}
+\enspace \enspace $\cdot$ \enspace \enspace
+\iconhref{\faLinkedin}{https://www.linkedin.com/in/daniel-goller-a50b76197}{LinkedIn}
+\enspace \enspace $\cdot$ \enspace \enspace
+\iconhref{\faGlobe}{https://scholar.google.com/citations?user=5U7ldvQAAAAJ&hl=de}{Google Scholar}%
+}
+
+# Research Interests
+
+Economics of Education, Causality, Applied Microeconometrics, Causal Machine Learning, Labour Economics, Behavioural Economics, Statistical Learning
+
+# Professional Experience
+
+\entryheader{Post-Doc and Lecturer}{2020 -- present}{Centre for Research in Economics of Education, University of Bern, Switzerland}{}
+
+\entryheader{Researcher (2021--2023), Ph.D. candidate (2016--2020)}{2016 -- 2023}{Swiss Institute for Empirical Economic Research, University of St.\,Gallen, Switzerland}{}
+
+\entryheader{Research and Teaching Assistant}{2014 -- 2015}{CAU Kiel, Institute for Statistics and Econometrics}{}
+
+\entryheader{Banking Professional}{2007 -- 2010, 2012, 2013}{Kreissparkasse Tübingen}{}
+
+# Education
+
+\entryheader{Ph.D. in Economics and Finance}{2016 -- 2021}{University of St.\,Gallen}{}
+
+\begin{itemize}
+\item Specialization: Econometrics
+\item Thesis: \textit{Essays in Causal Machine Learning}
+\item Supervisor: Prof.\ Dr.\ Michael Lechner
+\end{itemize}
+
+\entryheader{M.Sc. in Quantitative Economics}{2013 -- 2015}{Christian-Albrechts-Universität zu Kiel \& Stockholm University, Sweden}{}
+
+\begin{itemize}
+\item Thesis: \textit{The Consequences of Free Trade Agreements on Outsiders}
+\item Advisor: Prof.\ Holger Görg, Ph.D.
+\end{itemize}
+
+\entryheader{B.Sc. in Economics}{2010 -- 2013}{University of Mannheim}{}
+
+# Publications (Selection)
+
+\begin{itemize}
+\item ``Tournaments, Contestant Heterogeneity and Performance'', with Enzo Brox, \textit{Journal of Political Economy: Microeconomics} (just accepted)
+\item ``Reaching for Gold! The Impact of a Positive Reputation Shock on Career Choice'', with S.C.\ Wolter, \textit{European Economic Review}, 175, 105017, 2025
+\item ``This time it’s different -- Generative Artificial Intelligence and Occupational Choice'', with Christian Gschwendt and Stefan C.\ Wolter, \textit{Labour Economics}, 95, 102746, 2025
+\item ``Sitting Next to a Dropout: Academic Success of Students with More Educated Peers'', with Andrea Diem and Stefan C.\ Wolter, \textit{Economics of Education Review}, 102372, 2023
+\item ``Does the estimation of the propensity score by machine learning improve matching estimation? The case of Germany's programmes for long term unemployed'', with Michael Lechner, Andreas Moczall, and Joachim Wolff, \textit{Labour Economics}, 65, 101855, 2020
+\end{itemize}
+
+# Current Works and Projects
+
+\begin{itemize}
+\item ``Gender differences in investment reactions to irrelevant information'', with M.\ Späth, Working Paper (CEPA DP 67), 2023
+\item ``Gender differences in beliefs about productivity-relevant skills'', with E.\ Brox and S.C.\ Wolter
+\item ``Imperfect Self-knowledge about Skills and Skill Mismatch'', with E.\ Brox and S.C.\ Wolter
+\item ``Mismatch: Measurement and Consequences''
+\item ``Reaching for the stars from the top of the ladder? Rank, gender, and future aspirations''
+\end{itemize}
+
+# Teaching Experience
+
+\entryheader{Seminar: \textit{Economics of Education} (Master)}{from 2022}{University of Bern, Department of Economics}{}
+
+\begin{itemize}
+\item Recognition of Excellence in Teaching (2022, 2023, 2024, 2025)
+\item Supervision of Master’s theses
+\end{itemize}
+
+\entryheader{\textit{Econometrics I} (Master), Tutor}{2017 -- 2020}{Swiss Institute for Empirical Economic Research (SEW)}{}
+
+\entryheader{\textit{Introduction to Econometrics} (Bachelor), Tutor}{2014 -- 2016}{Christian-Albrechts-Universität (CAU), Institute for Statistics and Econometrics}{}
+
+\entryheader{\textit{Introduction to Economics} (Bachelor), Tutor}{2015 -- 2016}{CAU Kiel, Institute of Economics}{}
+
+# Academic Activities and Further Relevant Qualifications
+
+**Conferences / Seminars**  
+Hogskolen i Molde (Brown Bag Seminar); SERI Conference on Vocational Education; Bildungsökonomischer Ausschuss; LSE-LH workshop [all 2025]  
+CESifo Area Conference on Economics of Education; IZA/ECONtribute Workshop on the Economics of Education; International Leading House Conference (LH); Colloquium on Personnel Economics; Swiss Society of Economics and Statistics (SSES); Meeting of the Economics of Education Association; European Economic Association (EEA) [all 2024]  
+European Association of Labour Economists (EALE); SSES; SERI Conference on Vocational Education; REUS Workshop [all 2023]  
+University of Potsdam (PRSE Seminar); EEA; SSES; VfS; LH [all 2022]  
+EALE; VfS; SERI Conference on Vocational Education; Higher Education and the Labour Market; Machine Learning in Labor, Education, and Health [all 2021]  
+Young Swiss Economists Meeting; Causal Machine Learning Workshop [both 2020]  
+University of Göttingen (Economics Seminar) [2019]
+
+**Refereeing Activities**  
+\textit{The Review of Economics and Statistics}, \textit{Journal of Applied Econometrics}, \textit{Annals of Operations Research}, \textit{European Journal of Operations Research}, \textit{Journal of Sports Sciences}, \textit{Journal of Sports Economics}, \textit{German Journal of Exercise and Sport Research}, \textit{Sports Economics Review}, \textit{Zeitschrift für Bildungsforschung}, \textit{Journal of Behavioural and Experimental Economics}, \textit{Empirical Economics}, \textit{Kyklos}, \textit{Education Inquiry}, \textit{Journal of Labour Market Research}, \textit{Empirical Research in Vocational Education and Training}, \textit{The B.E. Journal of Economic Analysis and Policy}
+
+**Languages**  
+German: Native  
+English: Fluent  
+French: Good
+
+**Software**  
+R Statistics, Python, Stata, GAUSS, LaTeX, MS Office
